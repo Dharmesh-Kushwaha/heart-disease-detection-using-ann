@@ -2,7 +2,7 @@ Heart Disease Prediction System using Artificial Neural Networks (ANN)
 
 This project presents a complete end-to-end deep learning pipeline for predicting the likelihood of heart disease using clinical, physiological, and lifestyle parameters. Developed as part of our academic learning in Artificial Neural Networks (ANN) and deployment practices, the system integrates data preprocessing, exploratory data analysis, model building, evaluation, and deployment using Streamlit. The objective is to build a reliable, data-driven healthcare prediction model capable of assisting in early diagnosis and risk assessment.
 
-1. Introduction
+ 1. Introduction
 
 Heart disease remains one of the leading causes of mortality globally. Early detection plays a critical role in preventing complications and improving patient outcomes. With advancements in artificial intelligence, predictive models have become powerful tools to support healthcare professionals by identifying early patterns associated with disease risk.
 
