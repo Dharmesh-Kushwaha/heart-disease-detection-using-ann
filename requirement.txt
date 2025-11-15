@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+category_encoders
+scikit-learn
+tensorflow
+joblib
+streamlit
+ipykernel
